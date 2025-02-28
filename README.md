@@ -14,8 +14,8 @@ A lightweight neural network library implemented from scratch using NumPy. Suppo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/my_neural_network_lib.git
-cd my_neural_network_lib
+git clone https://github.com/hackingsage/Neural-Network-lib.git
+cd Neural-Network0-lib
 pip install -r requirements.txt
 ```
 
