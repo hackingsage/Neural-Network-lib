@@ -15,7 +15,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/hackingsage/Neural-Network-lib.git
-cd Neural-Network0-lib
+cd Neural-Network-lib
 pip install -r requirements.txt
 ```
 
