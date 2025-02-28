@@ -94,8 +94,6 @@ my_neural_network_lib/
 │── example.py             # Example: XOR dataset
 │── example_iris.py        # Example: Iris dataset classification
 │── requirements.txt       # Dependencies (NumPy, scikit-learn)
-│── README.md              # Documentation
-│── .gitignore             # Ignore unnecessary files
 ```
 
 ## License
